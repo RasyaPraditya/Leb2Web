@@ -1,5 +1,6 @@
 # Leb2Web
 
+<!-- 
 1.	Fungsi elemen tabel HTML: 
 o	<table>: Digunakan untuk membuat struktur tabel. 
 o	<tr>: Digunakan untuk membuat baris pada tabel (table row). 
@@ -36,4 +37,4 @@ o	minlength: Menentukan jumlah karakter (panjang) minimum teks yang harus dimasu
 10.	Perbedaan elemen <audio> dan <video>:
 o	<audio>: Digunakan khusus untuk memutar file suara/audio pada halaman web.
 o	<video>: Digunakan untuk memutar file video (visual beserta suara) dan dapat dikustomisasi ukurannya (seperti width dan height).
-
+ -->
