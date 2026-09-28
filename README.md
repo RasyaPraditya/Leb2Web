@@ -1,14 +1,13 @@
 # Leb2Web
 
-<!-- 
-1.	Fungsi elemen tabel HTML: 
-o	<table>: Digunakan untuk membuat struktur tabel. 
-o	<tr>: Digunakan untuk membuat baris pada tabel (table row). 
-o	<th>: Digunakan untuk membuat sel header atau judul kolom/baris (table header). 
-o	<td>: Digunakan untuk membuat sel data biasa (table data). 
-2.	Perbedaan <th> dan <td>:
-o	<th> digunakan untuk mendefinisikan sel sebagai header (kepala/judul) tabel, di mana teks di dalamnya secara default ditampilkan tebal (bold) dan berada di tengah (center). 
-o	<td> digunakan untuk mendefinisikan sel sebagai data/isi tabel biasa, di mana teks di dalamnya ditampilkan secara normal dan rata kiri secara default. 
+# 1.	Fungsi elemen tabel HTML: 
+# o	<table>: Digunakan untuk membuat struktur tabel. 
+# o	<tr>: Digunakan untuk membuat baris pada tabel (table row). 
+# o	<th>: Digunakan untuk membuat sel header atau judul kolom/baris (table header). 
+# o	<td>: Digunakan untuk membuat sel data biasa (table data). 
+# 2.	Perbedaan <th> dan <td>:
+# o	<th> digunakan untuk mendefinisikan sel sebagai header (kepala/judul) tabel, di mana teks di dalamnya secara default ditampilkan tebal (bold) dan berada di tengah (center). 
+# o	<td> digunakan untuk mendefinisikan sel sebagai data/isi tabel biasa, di mana teks di dalamnya ditampilkan secara normal dan rata kiri secara default. 
 3.	Fungsi colspan pada tabel:
 o	colspan berfungsi untuk menggabungkan dua atau lebih kolom dalam satu sel tabel secara horizontal. 
 4.	Fungsi <form> dalam HTML:
@@ -37,4 +36,3 @@ o	minlength: Menentukan jumlah karakter (panjang) minimum teks yang harus dimasu
 10.	Perbedaan elemen <audio> dan <video>:
 o	<audio>: Digunakan khusus untuk memutar file suara/audio pada halaman web.
 o	<video>: Digunakan untuk memutar file video (visual beserta suara) dan dapat dikustomisasi ukurannya (seperti width dan height).
- -->
